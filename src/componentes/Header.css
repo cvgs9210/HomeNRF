@@ -1,0 +1,29 @@
+/* Estilos para el encabezado */
+.headerH {
+	background-color: #4245ec;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+}
+.avatarH {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+/* Estilos para la navegación */
+.nav_ulH {
+	display: flex;
+}
+
+.nav_ulH li {
+	margin-right: 20px;
+}
+
+.nav_ulH li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+

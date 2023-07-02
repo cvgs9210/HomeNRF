@@ -1,0 +1,17 @@
+/* Estilos para el pie de página */
+.footerF {
+	background-color: #4245ec;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	
+}
+
+.avatarF {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+	
+}
+
